@@ -1,7 +1,5 @@
 # COGS109 Final project
 
-(change this to description of project later)
-
 ## Dataset description
 
 UCI repo link: http://archive.ics.uci.edu/ml/datasets/Mammographic+Mass
